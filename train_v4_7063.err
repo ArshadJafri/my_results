@@ -1,0 +1,216 @@
+2025-11-29 03:33:52.946403: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:33:53.004928: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:33:55.888466: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:08.148229: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:08.200385: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:34:10.520032: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:18.313775: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:18.350169: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:18.366845: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:34:18.380351: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:18.405522: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:34:18.433729: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:34:20.747231: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:20.914215: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:20.986977: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:23.578859: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 03:34:23.633358: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 03:34:26.198678: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:19,  3.92s/it]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:18,  3.62s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:19,  3.80s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:18,  4.60s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:19,  3.92s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:16,  4.20s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:17,  4.36s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:17,  4.47s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:14,  4.77s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:12<00:13,  4.37s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:13,  4.48s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:13,  4.57s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:18<00:09,  4.81s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:17<00:08,  4.46s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:17<00:09,  4.53s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:18<00:09,  4.62s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:23<00:04,  4.79s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:25<00:00,  3.88s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:25<00:00,  4.29s/it]
+Loading checkpoint shards:  83%|████████▎ | 5/6 [00:21<00:04,  4.50s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:22<00:04,  4.54s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:22<00:04,  4.64s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  3.69s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  4.01s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  3.68s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  4.06s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  3.78s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:24<00:00,  4.16s/it]
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:239: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:239: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+Using auto half precision backend
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+Gradient accumulation steps mismatch: GradientAccumulationPlugin has 1, DeepSpeed config has 8. Using DeepSpeed's value.
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:239: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:239: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+***** Running training *****
+  Num examples = 181
+  Num Epochs = 15
+  Instantaneous batch size per device = 2
+  Total train batch size (w. parallel, distributed & accumulation) = 64
+  Gradient Accumulation steps = 8
+  Total optimization steps = 45
+  Number of trainable parameters = 103,546,880
+  0%|          | 0/45 [00:00<?, ?it/s]`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py:1044: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. Starting in PyTorch 2.9, calling checkpoint without use_reentrant will raise an exception. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py:1044: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. Starting in PyTorch 2.9, calling checkpoint without use_reentrant will raise an exception. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py:1044: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. Starting in PyTorch 2.9, calling checkpoint without use_reentrant will raise an exception. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py:1044: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. Starting in PyTorch 2.9, calling checkpoint without use_reentrant will raise an exception. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+  2%|▏         | 1/45 [03:19<2:26:17, 199.49s/it]                                                   2%|▏         | 1/45 [03:19<2:26:17, 199.49s/it]  4%|▍         | 2/45 [06:33<2:20:35, 196.18s/it]                                                   4%|▍         | 2/45 [06:33<2:20:35, 196.18s/it]  7%|▋         | 3/45 [09:23<2:09:02, 184.34s/it]                                                   7%|▋         | 3/45 [09:23<2:09:02, 184.34s/it]  9%|▉         | 4/45 [12:41<2:09:34, 189.63s/it]                                                   9%|▉         | 4/45 [12:41<2:09:34, 189.63s/it] 11%|█         | 5/45 [15:58<2:08:16, 192.42s/it]                                                  11%|█         | 5/45 [15:58<2:08:16, 192.42s/it] 13%|█▎        | 6/45 [18:49<2:00:13, 184.95s/it]                                                  13%|█▎        | 6/45 [18:49<2:00:13, 184.95s/it] 16%|█▌        | 7/45 [21:59<1:58:14, 186.69s/it]                                                  16%|█▌        | 7/45 [21:59<1:58:14, 186.69s/it] 18%|█▊        | 8/45 [25:17<1:57:18, 190.22s/it]                                                  18%|█▊        | 8/45 [25:17<1:57:18, 190.22s/it] 20%|██        | 9/45 [28:10<1:50:56, 184.89s/it]                                                  20%|██        | 9/45 [28:10<1:50:56, 184.89s/it] 22%|██▏       | 10/45 [31:25<1:49:40, 188.02s/it]                                                   22%|██▏       | 10/45 [31:25<1:49:40, 188.02s/it] 24%|██▍       | 11/45 [34:45<1:48:34, 191.60s/it]                                                   24%|██▍       | 11/45 [34:45<1:48:34, 191.60s/it] 27%|██▋       | 12/45 [37:38<1:42:22, 186.12s/it]                                                   27%|██▋       | 12/45 [37:38<1:42:22, 186.12s/it] 29%|██▉       | 13/45 [40:53<1:40:41, 188.80s/it]                                                   29%|██▉       | 13/45 [40:53<1:40:41, 188.80s/it] 31%|███       | 14/45 [44:09<1:38:36, 190.86s/it]                                                   31%|███       | 14/45 [44:09<1:38:36, 190.86s/it] 33%|███▎      | 15/45 [47:01<1:32:34, 185.13s/it]                                                   33%|███▎      | 15/45 [47:01<1:32:34, 185.13s/it] 36%|███▌      | 16/45 [50:18<1:31:14, 188.76s/it]                                                   36%|███▌      | 16/45 [50:18<1:31:14, 188.76s/it] 38%|███▊      | 17/45 [53:33<1:28:57, 190.62s/it]                                                   38%|███▊      | 17/45 [53:33<1:28:57, 190.62s/it] 40%|████      | 18/45 [56:19<1:22:25, 183.17s/it]                                                   40%|████      | 18/45 [56:19<1:22:25, 183.17s/it] 42%|████▏     | 19/45 [59:31<1:20:32, 185.86s/it]                                                   42%|████▏     | 19/45 [59:31<1:20:32, 185.86s/it] 44%|████▍     | 20/45 [1:02:45<1:18:27, 188.30s/it]                                                     44%|████▍     | 20/45 [1:02:45<1:18:27, 188.30s/it] 47%|████▋     | 21/45 [1:05:39<1:13:36, 184.01s/it]                                                     47%|████▋     | 21/45 [1:05:39<1:13:36, 184.01s/it] 49%|████▉     | 22/45 [1:08:57<1:12:10, 188.27s/it]                                                     49%|████▉     | 22/45 [1:08:57<1:12:10, 188.27s/it] 51%|█████     | 23/45 [1:12:14<1:09:58, 190.85s/it]                                                     51%|█████     | 23/45 [1:12:14<1:09:58, 190.85s/it] 53%|█████▎    | 24/45 [1:15:06<1:04:48, 185.17s/it]                                                     53%|█████▎    | 24/45 [1:15:06<1:04:48, 185.17s/it] 56%|█████▌    | 25/45 [1:18:22<1:02:51, 188.57s/it]                                                     56%|█████▌    | 25/45 [1:18:22<1:02:51, 188.57s/it] 58%|█████▊    | 26/45 [1:21:37<1:00:18, 190.42s/it]                                                     58%|█████▊    | 26/45 [1:21:37<1:00:18, 190.42s/it] 60%|██████    | 27/45 [1:24:29<55:28, 184.91s/it]                                                     60%|██████    | 27/45 [1:24:29<55:28, 184.91s/it] 62%|██████▏   | 28/45 [1:27:47<53:28, 188.76s/it]                                                   62%|██████▏   | 28/45 [1:27:47<53:28, 188.76s/it] 64%|██████▍   | 29/45 [1:30:58<50:29, 189.37s/it]                                                   64%|██████▍   | 29/45 [1:30:58<50:29, 189.37s/it] 67%|██████▋   | 30/45 [1:33:49<46:00, 184.05s/it]                                                   67%|██████▋   | 30/45 [1:33:49<46:00, 184.05s/it] 69%|██████▉   | 31/45 [1:36:59<43:19, 185.68s/it]                                                   69%|██████▉   | 31/45 [1:36:59<43:19, 185.68s/it] 71%|███████   | 32/45 [1:40:15<40:53, 188.76s/it]                                                   71%|███████   | 32/45 [1:40:15<40:53, 188.76s/it] 73%|███████▎  | 33/45 [1:43:05<36:39, 183.26s/it]                                                   73%|███████▎  | 33/45 [1:43:05<36:39, 183.26s/it] 76%|███████▌  | 34/45 [1:46:25<34:31, 188.34s/it]                                                   76%|███████▌  | 34/45 [1:46:25<34:31, 188.34s/it] 78%|███████▊  | 35/45 [1:49:44<31:53, 191.36s/it]                                                   78%|███████▊  | 35/45 [1:49:44<31:53, 191.36s/it] 80%|████████  | 36/45 [1:52:37<27:53, 185.98s/it]                                                   80%|████████  | 36/45 [1:52:37<27:53, 185.98s/it] 82%|████████▏ | 37/45 [1:55:47<24:56, 187.02s/it]                                                   82%|████████▏ | 37/45 [1:55:47<24:56, 187.02s/it] 84%|████████▍ | 38/45 [1:59:04<22:10, 190.12s/it]                                                   84%|████████▍ | 38/45 [1:59:04<22:10, 190.12s/it] 87%|████████▋ | 39/45 [2:01:57<18:30, 185.05s/it]                                                   87%|████████▋ | 39/45 [2:01:57<18:30, 185.05s/it] 89%|████████▉ | 40/45 [2:05:15<15:44, 188.82s/it]                                                   89%|████████▉ | 40/45 [2:05:15<15:44, 188.82s/it] 91%|█████████ | 41/45 [2:08:32<12:45, 191.30s/it]                                                   91%|█████████ | 41/45 [2:08:32<12:45, 191.30s/it] 93%|█████████▎| 42/45 [2:11:22<09:15, 185.08s/it]                                                   93%|█████████▎| 42/45 [2:11:22<09:15, 185.08s/it] 96%|█████████▌| 43/45 [2:14:41<06:18, 189.04s/it]                                                   96%|█████████▌| 43/45 [2:14:41<06:18, 189.04s/it] 98%|█████████▊| 44/45 [2:17:58<03:11, 191.45s/it]                                                   98%|█████████▊| 44/45 [2:17:58<03:11, 191.45s/it]100%|██████████| 45/45 [2:20:52<00:00, 186.23s/it]                                                  100%|██████████| 45/45 [2:20:52<00:00, 186.23s/it]Saving model checkpoint to /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/checkpoint-45
+loading configuration file config.json from cache at /home/axs7716/.cache/huggingface/hub/models--unsloth--Meta-Llama-3.1-70B-bnb-4bit/snapshots/a009b8db2439814febe725486a5ed388f12a8744/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "dtype": "bfloat16",
+  "eos_token_id": 128001,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pad_token_id": 128004,
+  "pretraining_tp": 1,
+  "quantization_config": {
+    "_load_in_4bit": true,
+    "_load_in_8bit": false,
+    "bnb_4bit_compute_dtype": "bfloat16",
+    "bnb_4bit_quant_storage": "uint8",
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "llm_int8_enable_fp32_cpu_offload": false,
+    "llm_int8_has_fp16_weight": false,
+    "llm_int8_skip_modules": null,
+    "llm_int8_threshold": 6.0,
+    "load_in_4bit": true,
+    "load_in_8bit": false,
+    "quant_method": "bitsandbytes"
+  },
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "transformers_version": "4.57.1",
+  "unsloth_version": "2024.9",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/checkpoint-45/tokenizer_config.json
+Special tokens file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/checkpoint-45/special_tokens_map.json
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+                                                  100%|██████████| 45/45 [2:21:16<00:00, 186.23s/it]100%|██████████| 45/45 [2:21:16<00:00, 188.36s/it]
+Saving model checkpoint to /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15
+loading configuration file config.json from cache at /home/axs7716/.cache/huggingface/hub/models--unsloth--Meta-Llama-3.1-70B-bnb-4bit/snapshots/a009b8db2439814febe725486a5ed388f12a8744/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "dtype": "bfloat16",
+  "eos_token_id": 128001,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pad_token_id": 128004,
+  "pretraining_tp": 1,
+  "quantization_config": {
+    "_load_in_4bit": true,
+    "_load_in_8bit": false,
+    "bnb_4bit_compute_dtype": "bfloat16",
+    "bnb_4bit_quant_storage": "uint8",
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "llm_int8_enable_fp32_cpu_offload": false,
+    "llm_int8_has_fp16_weight": false,
+    "llm_int8_skip_modules": null,
+    "llm_int8_threshold": 6.0,
+    "load_in_4bit": true,
+    "load_in_8bit": false,
+    "quant_method": "bitsandbytes"
+  },
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "transformers_version": "4.57.1",
+  "unsloth_version": "2024.9",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/tokenizer_config.json
+Special tokens file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/special_tokens_map.json
+tokenizer config file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/tokenizer_config.json
+Special tokens file saved in /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0001_7192_2_2_8_0.01_15/special_tokens_map.json

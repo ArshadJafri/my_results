@@ -1,0 +1,515 @@
+2025-12-01 15:34:55.373024: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:34:55.431629: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:34:58.613932: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:10.924555: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:10.980950: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:13.395829: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.504964: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.562471: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:21.890585: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.890585: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.901480: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.933426: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.943042: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:21.947072: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:21.947072: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:21.961437: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:21.991306: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:22.001270: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:24.219812: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:24.396429: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:24.500928: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:24.538085: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:24.622584: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:27.325604: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:27.381790: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:27.545322: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:27.601816: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-01 15:35:29.656611: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:29.708791: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-01 15:35:29.759529: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:08,  1.67s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.42s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.45s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.46s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.47s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.45s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.44s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:07,  1.53s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:03<00:06,  1.53s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.42s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.42s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.43s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.43s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.42s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.41s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:03<00:05,  1.50s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.56s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.46s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.47s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.47s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.46s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.46s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.46s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.53s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:06<00:03,  1.52s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.44s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.44s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.44s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.43s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.44s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:05<00:02,  1.45s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:06<00:03,  1.52s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.44s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.47s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.55s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.46s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.42s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.44s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.46s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:07<00:01,  1.54s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.28s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.37s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.29s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.37s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.34s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.39s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.40s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.28s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.48s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.36s/it]
+
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.35s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.27s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.36s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.32s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:08<00:00,  1.43s/it]
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/my_model/Finetuning_V5.py:231: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+[rank5]: Traceback (most recent call last):
+[rank5]:   File "/home/axs7716/my_model/Finetuning_V5.py", line 297, in <module>
+[rank5]:     main(model_args, data_args, training_args)
+[rank5]:   File "/home/axs7716/my_model/Finetuning_V5.py", line 247, in main
+[rank5]:     trainer.train(resume_from_checkpoint=None)
+[rank5]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank5]:     return inner_training_loop(
+[rank5]:            ^^^^^^^^^^^^^^^^^^^^
+[rank5]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2480, in _inner_training_loop
+[rank5]:     model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+[rank5]:                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank5]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 1476, in prepare
+[rank5]:     raise ValueError(
+[rank5]: ValueError: You can't train a model that has been loaded with `device_map='auto'` in any distributed mode. Please rerun your script specifying `--num_processes=1` or by launching with `python {{myscript.py}}`.
+[rank5]:[W1201 15:36:24.465786414 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank1]:[W1201 15:36:27.047731518 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=72, addr=[localhost]:53264, remote=[localhost]:29500): Connection reset by peer
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:694 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7dd2ff2d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7dd2c66cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe993 (0x7dd2c66ce993 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x7dd2c66cf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x7dd2c66ca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7dd2852486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7dd301ce90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7dd30f69caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7dd30f729c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank1]:[W1201 15:36:27.050355965 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 1] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Connection reset by peer
+[rank4]:[W1201 15:36:27.048640664 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Connection reset by peer
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:694 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe993 (0x786f0bece993 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x786f0becf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x786f0beca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:27.051302070 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Connection reset by peer
+[rank7]:[W1201 15:36:27.062244425 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:697 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe92d (0x70fcbb8ce92d in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x70fcbb8cf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x70fcbb8ca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:27.064744592 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+[rank6]:[W1201 15:36:27.101374368 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:697 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe92d (0x7bf1e9ace92d in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x7bf1e9acf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x7bf1e9aca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:27.103925965 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+[rank3]:[W1201 15:36:28.237512422 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=71, addr=[localhost]:53244, remote=[localhost]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:697 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x76202b4d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x761ffcacd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe92d (0x761ffcace92d in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x761ffcacf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x761ffcaca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x761fbb6486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x762033ee90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x76204509caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x762045129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank3]:[W1201 15:36:28.240112429 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 3] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+[rank2]:[W1201 15:36:28.525547502 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=71, addr=[localhost]:53254, remote=[localhost]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:697 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7b34e2cd0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7b34af6cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe92d (0x7b34af6ce92d in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x7b34af6cf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x7b34af6ca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7b346e2486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7b34e56e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7b34f809caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7b34f8129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank2]:[W1201 15:36:28.528173199 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 2] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+[rank1]:[W1201 15:36:28.050573798 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53264, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7dd2ff2d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7dd2c66cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7dd2c66cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7dd2c66cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7dd2c66ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7dd2852486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7dd301ce90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7dd30f69caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7dd30f729c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank1]:[W1201 15:36:28.056797447 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 1] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank4]:[W1201 15:36:28.051531154 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x786f0becddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x786f0becf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x786f0beca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:28.057835592 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:28.064937506 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:28.071124155 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:28.104143159 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:29.110441027 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank3]:[W1201 15:36:29.250095004 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53244, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x76202b4d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x761ffcacd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x761ffcacddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x761ffcacf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x761ffcaca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x761fbb6486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x762033ee90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x76204509caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x762045129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank3]:[W1201 15:36:29.252638381 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 3] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank2]:[W1201 15:36:29.537443007 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53254, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7b34e2cd0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7b34af6cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7b34af6cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7b34af6cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7b34af6ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7b346e2486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7b34e56e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7b34f809caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7b34f8129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank2]:[W1201 15:36:29.540025934 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 2] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank4]:[W1201 15:36:29.059080160 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x786f0becddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x786f0becf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x786f0beca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:29.061608038 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:29.071292579 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:29.073783786 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:30.113088089 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:30.115632426 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank3]:[W1201 15:36:30.252814265 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53244, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x76202b4d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x761ffcacd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x761ffcacddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x761ffcacf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x761ffcaca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x761fbb6486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x762033ee90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x76204509caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x762045129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank3]:[W1201 15:36:30.256943334 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 3] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank2]:[W1201 15:36:30.540251828 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53254, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7b34e2cd0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7b34af6cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7b34af6cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7b34af6cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7b34af6ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7b346e2486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7b34e56e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7b34f809caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7b34f8129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank2]:[W1201 15:36:30.546485246 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 2] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank4]:[W1201 15:36:30.061760052 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x786f0becddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x786f0becf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x786f0beca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:30.067423243 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:30.073950450 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:30.080096289 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:31.115857599 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:31.122098958 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank3]:[W1201 15:36:31.257176488 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53244, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x76202b4d0b80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x761ffcacd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x761ffcacddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x761ffcacf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x761ffcaca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x761fbb6486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x762033ee90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x76204509caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x762045129c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank3]:[W1201 15:36:31.263409776 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 3] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank4]:[W1201 15:36:31.067664427 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x786f0becddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x786f0becf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x786f0beca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:31.073919365 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:31.080289073 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:31.086485602 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:32.122315812 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:32.128514990 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank4]:[W1201 15:36:32.074159089 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53222, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x786f4217ab80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x786f0becd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x786f0becddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x786f0becf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x786f0beca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x786ecaa486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x786f472e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x786f54c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x786f54d29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[W1201 15:36:32.080411417 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 4] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:32.086676136 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:32.092876445 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:33.128735514 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:33.134914983 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+[rank7]:[W1201 15:36:33.096416732 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:33.098974059 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank6]:[W1201 15:36:34.138082092 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=72, addr=[localhost]:53276, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7bf22277bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7bf1e9acd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x7bf1e9acddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x7bf1e9acf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x7bf1e9aca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7bf1a86486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7bf2250e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7bf232a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7bf232b29c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[W1201 15:36:34.140662169 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 6] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:34.099422981 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:34.102008118 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[rank7]:[W1201 15:36:35.102234312 TCPStore.cpp:106] [c10d] sendBytes failed on SocketImpl(fd=71, addr=[localhost]:53238, remote=[localhost]:29500): Broken pipe
+Exception raised from sendBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:668 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70fcee77bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70fcbb8cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffddc2 (0x70fcbb8cddc2 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff8ce (0x70fcbb8cf8ce in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x30e (0x70fcbb8ca1ee in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70fc7a4486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70fcf10e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70fd0429caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70fd04329c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[W1201 15:36:35.108500690 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0 Rank 7] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Broken pipe
+[W1201 15:36:38.969977982 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[W1201 15:36:40.775788829 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())

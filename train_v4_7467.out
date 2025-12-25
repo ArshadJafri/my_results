@@ -1,0 +1,27 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-06 11:37:36,287] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3,4,5,6,7 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-12-06 11:37:36,287] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgMywgNCwgNSwgNiwgN119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V5.py 0.0001 2092 1 1 4 0.01 10
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-06 11:37:49,383] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]}
+[2025-12-06 11:37:49,383] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=8, node_rank=0
+[2025-12-06 11:37:49,383] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]})
+[2025-12-06 11:37:49,383] [INFO] [launch.py:180:main] dist_world_size=8
+[2025-12-06 11:37:49,383] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+[2025-12-06 11:37:49,385] [INFO] [launch.py:272:main] process 508492 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=0', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,386] [INFO] [launch.py:272:main] process 508493 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=1', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,387] [INFO] [launch.py:272:main] process 508494 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=2', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,388] [INFO] [launch.py:272:main] process 508495 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=3', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,389] [INFO] [launch.py:272:main] process 508496 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=4', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,390] [INFO] [launch.py:272:main] process 508497 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=5', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,391] [INFO] [launch.py:272:main] process 508498 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=6', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:37:49,392] [INFO] [launch.py:272:main] process 508499 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0001', '2092', '1', '1', '4', '0.01', '10']
+[2025-12-06 11:38:07,395] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508492
+[2025-12-06 11:38:07,620] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508493
+[2025-12-06 11:38:07,844] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508494
+[2025-12-06 11:38:07,895] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508495
+[2025-12-06 11:38:08,106] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508496
+[2025-12-06 11:38:08,106] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508497
+[2025-12-06 11:38:08,289] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508498
+[2025-12-06 11:38:08,513] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 508499
+[2025-12-06 11:38:08,737] [ERROR] [launch.py:341:sigkill_handler] ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0001', '2092', '1', '1', '4', '0.01', '10'] exits with return code = 1

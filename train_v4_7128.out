@@ -1,0 +1,218 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-01 15:26:48,640] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3,4,5,6,7 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-12-01 15:26:48,640] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgMywgNCwgNSwgNiwgN119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V5.py 0.0002 8870 2 2 10 0.01 115
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-01 15:27:03,653] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]}
+[2025-12-01 15:27:03,654] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=8, node_rank=0
+[2025-12-01 15:27:03,654] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]})
+[2025-12-01 15:27:03,654] [INFO] [launch.py:180:main] dist_world_size=8
+[2025-12-01 15:27:03,654] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+[2025-12-01 15:27:03,655] [INFO] [launch.py:272:main] process 24539 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=0', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,656] [INFO] [launch.py:272:main] process 24540 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=1', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,658] [INFO] [launch.py:272:main] process 24541 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=2', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,659] [INFO] [launch.py:272:main] process 24542 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=3', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,660] [INFO] [launch.py:272:main] process 24543 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=4', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,661] [INFO] [launch.py:272:main] process 24544 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=5', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,662] [INFO] [launch.py:272:main] process 24545 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=6', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:27:03,663] [INFO] [launch.py:272:main] process 24546 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+======================================================================
+
+📊 CONFIGURATION📊 CONFIGURATION
+
+============================================================================================================================================
+
+Learning Rate:              0.0002Learning Rate:              0.0002
+
+Max Seq Length:             8870Max Seq Length:             8870
+
+Train Batch Size:           2Train Batch Size:           2
+
+Eval Batch Size:            2Eval Batch Size:            2
+
+Gradient Accumulation:      10Gradient Accumulation:      10
+
+Weight Decay:               0.01Weight Decay:               0.01
+
+Num Epochs:                 115Num Epochs:                 115
+
+======================================================================
+======================================================================
+
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+
+======================================================================Eval Batch Size:            2
+
+📊 CONFIGURATIONGradient Accumulation:      10
+
+======================================================================Weight Decay:               0.01
+
+Num Epochs:                 115Learning Rate:              0.0002
+
+======================================================================
+Max Seq Length:             8870
+
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+📥 Downloading datasets...
+📂 Loading datasets...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+📥 Downloading datasets...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+📂 Loading datasets...
+⚙️ Tokenizing train dataset...
+📥 Downloading datasets...
+📥 Downloading datasets...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+📂 Loading datasets...
+📂 Loading datasets...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+📥 Downloading datasets...
+📥 Downloading datasets...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+📂 Loading datasets...
+📂 Loading datasets...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+
+🤖 Loading model...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+
+🤖 Loading model...
+
+🤖 Loading model...
+
+🤖 Loading model...
+🤖 Loading model...
+
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+
+🤖 Loading model...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+
+🤖 Loading model...
+
+🤖 Loading model...
+🔧 Preparing model for k-bit training...
+🔧 Preparing model for k-bit training...
+[2025-12-01 15:28:12,702] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24539
+[2025-12-01 15:28:15,296] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24540
+[2025-12-01 15:28:17,239] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24541
+🔧 Preparing model for k-bit training...
+[2025-12-01 15:28:18,439] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24542
+🔧 Preparing model for k-bit training...
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+🎯 Configuring LoRA...
+[2025-12-01 15:28:19,974] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24543
+[2025-12-01 15:28:21,446] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24544
+[2025-12-01 15:28:22,788] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24545
+[2025-12-01 15:28:22,789] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 24546
+[2025-12-01 15:28:22,838] [ERROR] [launch.py:341:sigkill_handler] ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0002', '8870', '2', '2', '10', '0.01', '115'] exits with return code = 1

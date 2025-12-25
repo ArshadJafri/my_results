@@ -1,0 +1,323 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-01 15:45:47,479] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3,4,5,6,7 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-12-01 15:45:47,479] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgMywgNCwgNSwgNiwgN119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V5.py 0.0002 8870 2 2 10 0.01 115
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-01 15:46:01,190] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]}
+[2025-12-01 15:46:01,190] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=8, node_rank=0
+[2025-12-01 15:46:01,190] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]})
+[2025-12-01 15:46:01,190] [INFO] [launch.py:180:main] dist_world_size=8
+[2025-12-01 15:46:01,190] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+[2025-12-01 15:46:01,192] [INFO] [launch.py:272:main] process 28627 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=0', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,193] [INFO] [launch.py:272:main] process 28628 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=1', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,194] [INFO] [launch.py:272:main] process 28629 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=2', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,195] [INFO] [launch.py:272:main] process 28630 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=3', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,196] [INFO] [launch.py:272:main] process 28631 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=4', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,197] [INFO] [launch.py:272:main] process 28632 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=5', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,198] [INFO] [launch.py:272:main] process 28633 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=6', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+[2025-12-01 15:46:01,199] [INFO] [launch.py:272:main] process 28634 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0002', '8870', '2', '2', '10', '0.01', '115']
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+
+======================================================================
+📊 CONFIGURATION
+======================================================================
+Learning Rate:              0.0002
+Max Seq Length:             8870
+Train Batch Size:           2
+Eval Batch Size:            2
+Gradient Accumulation:      10
+Weight Decay:               0.01
+Num Epochs:                 115
+======================================================================
+
+📥 Downloading datasets...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+📥 Downloading datasets...
+📥 Downloading datasets...
+📂 Loading datasets...
+📂 Loading datasets...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+✅ Train samples: 181
+✅ Eval samples: 61
+
+🔤 Loading tokenizer...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+
+🤖 Loading model...
+
+🤖 Loading model...
+
+🤖 Loading model...
+
+🤖 Loading model...
+
+🤖 Loading model...
+
+🤖 Loading model...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing train dataset...
+⚙️ Tokenizing eval dataset...
+⚙️ Tokenizing eval dataset...
+
+🤖 Loading model...
+
+🤖 Loading model...
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+🔧 Preparing model for k-bit training...
+🔧 Preparing model for k-bit training...
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+🎯 Configuring LoRA...
+🎯 Configuring LoRA...
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+🔧 Preparing model for k-bit training...
+🎯 Configuring LoRA...
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+
+📊 Model Statistics:
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+Output directory: /scratch/axs7716Arsh/centaur-ptsd-finetuned_0.0002_8870_2_2_10_0.01_115
+Effective batch size per GPU: 20
+======================================================================
+
+[2025-12-01 15:47:37,229] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28627
+[2025-12-01 15:47:38,017] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28628
+[2025-12-01 15:47:38,017] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28629
+[2025-12-01 15:47:38,066] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28630
+[2025-12-01 15:47:40,132] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28631
+[2025-12-01 15:47:40,181] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28632
+[2025-12-01 15:47:40,215] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28633
+[2025-12-01 15:47:40,236] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 28634
+[2025-12-01 15:47:40,255] [ERROR] [launch.py:341:sigkill_handler] ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.0002', '8870', '2', '2', '10', '0.01', '115'] exits with return code = 1
