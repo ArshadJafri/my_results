@@ -1,0 +1,1453 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-07 19:21:12,359] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3,4,5,6,7 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-12-07 19:21:12,360] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgMywgNCwgNSwgNiwgN119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V5.py 0.00007 9216 2 2 2 0.05 15
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-12-07 19:57:45,453] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]}
+[2025-12-07 19:57:45,454] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=8, node_rank=0
+[2025-12-07 19:57:45,454] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3, 4, 5, 6, 7]})
+[2025-12-07 19:57:45,454] [INFO] [launch.py:180:main] dist_world_size=8
+[2025-12-07 19:57:45,454] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+[2025-12-07 19:57:45,647] [INFO] [launch.py:272:main] process 891594 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=0', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,648] [INFO] [launch.py:272:main] process 891595 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=1', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,650] [INFO] [launch.py:272:main] process 891596 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=2', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,651] [INFO] [launch.py:272:main] process 891597 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=3', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,653] [INFO] [launch.py:272:main] process 891598 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=4', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,654] [INFO] [launch.py:272:main] process 891599 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=5', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,655] [INFO] [launch.py:272:main] process 891600 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=6', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+[2025-12-07 19:57:45,861] [INFO] [launch.py:272:main] process 891602 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V5.py', '--local_rank=7', '0.00007', '9216', '2', '2', '2', '0.05', '15']
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size (per GPU): 4
+Epochs: 15
+Learning rate: 7e-05
+============================================================
+
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+============================================================
+
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+
+Effective batch size (per GPU): 4
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapterEpochs: 15
+
+Effective batch size (per GPU): 4
+Epochs: 15Learning rate: 7e-05
+
+============================================================
+
+Learning rate: 7e-05
+============================================================
+
+
+============================================================
+============================================================
+
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapterBase model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+
+Effective batch size (per GPU): 4Effective batch size (per GPU): 4
+
+Epochs: 15Epochs: 15
+
+Learning rate: 7e-05Learning rate: 7e-05
+
+============================================================
+============================================================
+
+
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size (per GPU): 4
+Epochs: 15
+
+============================================================
+============================================================Learning rate: 7e-05
+
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+============================================================
+
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+
+Effective batch size (per GPU): 4Effective batch size (per GPU): 4
+
+Epochs: 15Epochs: 15
+
+Learning rate: 7e-05Learning rate: 7e-05
+
+============================================================
+============================================================
+
+
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Loading tokenizer...
+Tokenizing train dataset...
+Tokenizing eval dataset...
+Loading model...
+Tokenizing train dataset...
+Tokenizing train dataset...
+Tokenizing eval dataset...
+Loading model...
+Tokenizing eval dataset...
+Tokenizing train dataset...
+Loading model...
+Tokenizing eval dataset...
+Tokenizing train dataset...
+Tokenizing eval dataset...Loading model...
+
+Tokenizing train dataset...
+Tokenizing train dataset...
+Tokenizing train dataset...
+Tokenizing eval dataset...Tokenizing eval dataset...
+
+Loading model...
+Tokenizing eval dataset...
+Loading model...
+Loading model...
+Loading model...
+Preparing model for k-bit training...
+Configuring LoRA...
+Preparing model for k-bit training...
+Configuring LoRA...
+Preparing model for k-bit training...
+Preparing model for k-bit training...
+Preparing model for k-bit training...
+Preparing model for k-bit training...
+Configuring LoRA...
+Configuring LoRA...
+Configuring LoRA...
+Preparing model for k-bit training...
+Configuring LoRA...
+Preparing model for k-bit training...
+Configuring LoRA...
+Configuring LoRA...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+PeftModelForCausalLM(
+  (base_model): LoraModel(
+    (model): LlamaForCausalLM(
+      (model): LlamaModel(
+        (embed_tokens): Embedding(128256, 8192, padding_idx=128004)
+        (layers): ModuleList(
+          (0-79): 80 x LlamaDecoderLayer(
+            (self_attn): LlamaAttention(
+              (q_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (k_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (v_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=1024, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=1024, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (o_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+            )
+            (mlp): LlamaMLP(
+              (gate_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (up_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=8192, out_features=28672, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=8192, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=28672, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (down_proj): lora.Linear4bit(
+                (base_layer): Linear4bit(in_features=28672, out_features=8192, bias=False)
+                (lora_dropout): ModuleDict(
+                  (default): Identity()
+                )
+                (lora_A): ModuleDict(
+                  (default): Linear(in_features=28672, out_features=8, bias=False)
+                )
+                (lora_B): ModuleDict(
+                  (default): Linear(in_features=8, out_features=8192, bias=False)
+                )
+                (lora_embedding_A): ParameterDict()
+                (lora_embedding_B): ParameterDict()
+                (lora_magnitude_vector): ModuleDict()
+              )
+              (act_fn): SiLUActivation()
+            )
+            (input_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+            (post_attention_layernorm): LlamaRMSNorm((8192,), eps=1e-05)
+          )
+        )
+        (norm): LlamaRMSNorm((8192,), eps=1e-05)
+        (rotary_emb): LlamaRotaryEmbedding()
+      )
+      (lm_head): Linear(in_features=8192, out_features=128256, bias=False)
+    )
+  )
+)
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+trainable params: 103,546,880 || all params: 70,657,253,376 || trainable%: 0.1465
+
+🚀 Starting training...
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000070, betas=(0.900000, 0.999000), weight_decay=0.050000, adam_w=1
+Parameter Offload - Persistent parameters statistics: param_count = 1041, numel = 49815552
+{'loss': 0.1449, 'grad_norm': 0.1633133888244629, 'learning_rate': 7e-05, 'epoch': 0.12}
+{'loss': 0.1367, 'grad_norm': 0.16038398444652557, 'learning_rate': 7e-05, 'epoch': 0.25}
+{'loss': 0.1247, 'grad_norm': 0.1909395009279251, 'learning_rate': 7e-05, 'epoch': 0.38}
+{'loss': 0.1243, 'grad_norm': 0.09683044999837875, 'learning_rate': 7e-05, 'epoch': 0.5}
+{'loss': 0.0932, 'grad_norm': 0.14538846909999847, 'learning_rate': 7e-05, 'epoch': 0.62}
+{'loss': 0.1218, 'grad_norm': 0.14007939398288727, 'learning_rate': 7e-05, 'epoch': 0.75}
+{'loss': 0.1149, 'grad_norm': 0.11785055696964264, 'learning_rate': 7e-05, 'epoch': 0.88}
+{'loss': 0.0987, 'grad_norm': 0.1020868569612503, 'learning_rate': 7e-05, 'epoch': 1.0}
+{'loss': 0.1149, 'grad_norm': 0.1714344471693039, 'learning_rate': 7e-05, 'epoch': 1.12}
+{'loss': 0.1125, 'grad_norm': 0.08251459896564484, 'learning_rate': 7e-05, 'epoch': 1.25}
+{'eval_loss': 0.10207639634609222, 'eval_runtime': 56.8031, 'eval_samples_per_second': 1.514, 'eval_steps_per_second': 0.106, 'epoch': 1.25}
+{'loss': 0.0748, 'grad_norm': 0.09166724979877472, 'learning_rate': 7e-05, 'epoch': 1.38}
+{'loss': 0.0533, 'grad_norm': 0.10838380455970764, 'learning_rate': 7e-05, 'epoch': 1.5}
+{'loss': 0.0871, 'grad_norm': 0.06522507220506668, 'learning_rate': 7e-05, 'epoch': 1.62}
+{'loss': 0.0733, 'grad_norm': 0.07204815000295639, 'learning_rate': 7e-05, 'epoch': 1.75}
+{'loss': 0.0764, 'grad_norm': 0.056388191878795624, 'learning_rate': 7e-05, 'epoch': 1.88}
+{'loss': 0.1064, 'grad_norm': 0.06125374138355255, 'learning_rate': 7e-05, 'epoch': 2.0}
+{'loss': 0.0713, 'grad_norm': 0.0634613111615181, 'learning_rate': 7e-05, 'epoch': 2.12}
+{'loss': 0.0944, 'grad_norm': 0.05060742795467377, 'learning_rate': 7e-05, 'epoch': 2.25}
+{'loss': 0.0879, 'grad_norm': 0.0572945699095726, 'learning_rate': 7e-05, 'epoch': 2.38}
+{'loss': 0.0827, 'grad_norm': 0.07103309780359268, 'learning_rate': 7e-05, 'epoch': 2.5}
+{'eval_loss': 0.09235227108001709, 'eval_runtime': 56.7906, 'eval_samples_per_second': 1.514, 'eval_steps_per_second': 0.106, 'epoch': 2.5}
+{'loss': 0.0825, 'grad_norm': 0.2048945128917694, 'learning_rate': 7e-05, 'epoch': 2.62}
+{'loss': 0.0733, 'grad_norm': 0.0487225241959095, 'learning_rate': 7e-05, 'epoch': 2.75}
+{'loss': 0.0676, 'grad_norm': 0.039869725704193115, 'learning_rate': 7e-05, 'epoch': 2.88}
+{'loss': 0.0756, 'grad_norm': 0.06576348096132278, 'learning_rate': 7e-05, 'epoch': 3.0}
+{'loss': 0.0665, 'grad_norm': 0.04154759272933006, 'learning_rate': 7e-05, 'epoch': 3.12}
+{'loss': 0.0761, 'grad_norm': 0.3152382969856262, 'learning_rate': 7e-05, 'epoch': 3.25}
+{'loss': 0.0925, 'grad_norm': 0.10805276781320572, 'learning_rate': 7e-05, 'epoch': 3.38}
+{'loss': 0.1027, 'grad_norm': 0.08088679611682892, 'learning_rate': 7e-05, 'epoch': 3.5}
+{'loss': 0.0932, 'grad_norm': 0.09188465029001236, 'learning_rate': 7e-05, 'epoch': 3.62}
+{'loss': 0.0677, 'grad_norm': 0.10384035110473633, 'learning_rate': 7e-05, 'epoch': 3.75}
+{'eval_loss': 0.09060116112232208, 'eval_runtime': 56.7653, 'eval_samples_per_second': 1.515, 'eval_steps_per_second': 0.106, 'epoch': 3.75}
+{'loss': 0.0515, 'grad_norm': 0.04653399437665939, 'learning_rate': 7e-05, 'epoch': 3.88}
+{'loss': 0.0765, 'grad_norm': 0.06400737911462784, 'learning_rate': 7e-05, 'epoch': 4.0}
+{'loss': 0.0759, 'grad_norm': 0.07396461069583893, 'learning_rate': 7e-05, 'epoch': 4.12}
+{'loss': 0.1041, 'grad_norm': 0.10102779418230057, 'learning_rate': 7e-05, 'epoch': 4.25}
+{'loss': 0.0628, 'grad_norm': 0.04337538033723831, 'learning_rate': 7e-05, 'epoch': 4.38}
+{'loss': 0.0821, 'grad_norm': 0.1017514020204544, 'learning_rate': 7e-05, 'epoch': 4.5}
+{'loss': 0.06, 'grad_norm': 0.04906480759382248, 'learning_rate': 7e-05, 'epoch': 4.62}
+{'loss': 0.0861, 'grad_norm': 0.03697643056511879, 'learning_rate': 7e-05, 'epoch': 4.75}
+{'loss': 0.08, 'grad_norm': 0.057615332305431366, 'learning_rate': 7e-05, 'epoch': 4.88}
+{'loss': 0.0693, 'grad_norm': 0.09026939421892166, 'learning_rate': 7e-05, 'epoch': 5.0}
+{'eval_loss': 0.08973812311887741, 'eval_runtime': 56.7521, 'eval_samples_per_second': 1.515, 'eval_steps_per_second': 0.106, 'epoch': 5.0}
+{'loss': 0.0559, 'grad_norm': 0.048679132014513016, 'learning_rate': 7e-05, 'epoch': 5.12}
+{'loss': 0.0817, 'grad_norm': 0.08267619460821152, 'learning_rate': 7e-05, 'epoch': 5.25}
+{'loss': 0.091, 'grad_norm': 0.09185177832841873, 'learning_rate': 7e-05, 'epoch': 5.38}
+{'loss': 0.0713, 'grad_norm': 0.08199213445186615, 'learning_rate': 7e-05, 'epoch': 5.5}
+{'loss': 0.0916, 'grad_norm': 0.06252016872167587, 'learning_rate': 7e-05, 'epoch': 5.62}
+{'loss': 0.0903, 'grad_norm': 0.08143642544746399, 'learning_rate': 7e-05, 'epoch': 5.75}
+{'loss': 0.0689, 'grad_norm': 0.04345424845814705, 'learning_rate': 7e-05, 'epoch': 5.88}
+{'loss': 0.0482, 'grad_norm': 0.05405782535672188, 'learning_rate': 7e-05, 'epoch': 6.0}
+{'loss': 0.0921, 'grad_norm': 0.11421992629766464, 'learning_rate': 7e-05, 'epoch': 6.12}
+{'loss': 0.1072, 'grad_norm': 0.0752066969871521, 'learning_rate': 7e-05, 'epoch': 6.25}
+{'eval_loss': 0.0879070907831192, 'eval_runtime': 56.6875, 'eval_samples_per_second': 1.517, 'eval_steps_per_second': 0.106, 'epoch': 6.25}
+{'loss': 0.0576, 'grad_norm': 0.04706472530961037, 'learning_rate': 7e-05, 'epoch': 6.38}
+{'loss': 0.0719, 'grad_norm': 0.06151716783642769, 'learning_rate': 7e-05, 'epoch': 6.5}
+{'loss': 0.0532, 'grad_norm': 0.05575630068778992, 'learning_rate': 7e-05, 'epoch': 6.62}
+{'loss': 0.0661, 'grad_norm': 0.0993216335773468, 'learning_rate': 7e-05, 'epoch': 6.75}
+{'loss': 0.0676, 'grad_norm': 0.06969212740659714, 'learning_rate': 7e-05, 'epoch': 6.88}
+{'loss': 0.0815, 'grad_norm': 0.07083719223737717, 'learning_rate': 7e-05, 'epoch': 7.0}
+{'loss': 0.0475, 'grad_norm': 0.11448590457439423, 'learning_rate': 7e-05, 'epoch': 7.12}
+{'loss': 0.0815, 'grad_norm': 0.09934454411268234, 'learning_rate': 7e-05, 'epoch': 7.25}
+{'loss': 0.0879, 'grad_norm': 0.12426505237817764, 'learning_rate': 7e-05, 'epoch': 7.38}
+{'loss': 0.0671, 'grad_norm': 0.09086637198925018, 'learning_rate': 7e-05, 'epoch': 7.5}
+{'eval_loss': 0.089385025203228, 'eval_runtime': 56.6475, 'eval_samples_per_second': 1.518, 'eval_steps_per_second': 0.106, 'epoch': 7.5}
+{'loss': 0.1075, 'grad_norm': 0.12322676926851273, 'learning_rate': 7e-05, 'epoch': 7.62}
+{'loss': 0.0525, 'grad_norm': 0.14233627915382385, 'learning_rate': 7e-05, 'epoch': 7.75}
+{'loss': 0.0469, 'grad_norm': 0.058191340416669846, 'learning_rate': 7e-05, 'epoch': 7.88}
+{'loss': 0.0805, 'grad_norm': 0.1279304027557373, 'learning_rate': 7e-05, 'epoch': 8.0}
+{'loss': 0.0722, 'grad_norm': 0.14806817471981049, 'learning_rate': 7e-05, 'epoch': 8.12}
+{'loss': 0.0594, 'grad_norm': 0.06654586642980576, 'learning_rate': 7e-05, 'epoch': 8.25}
+{'loss': 0.0811, 'grad_norm': 0.1932893842458725, 'learning_rate': 7e-05, 'epoch': 8.38}
+{'loss': 0.0471, 'grad_norm': 0.12463394552469254, 'learning_rate': 7e-05, 'epoch': 8.5}
+{'loss': 0.0778, 'grad_norm': 0.08322133123874664, 'learning_rate': 7e-05, 'epoch': 8.62}
+{'loss': 0.082, 'grad_norm': 0.1264212280511856, 'learning_rate': 7e-05, 'epoch': 8.75}
+{'eval_loss': 0.09243027120828629, 'eval_runtime': 56.841, 'eval_samples_per_second': 1.513, 'eval_steps_per_second': 0.106, 'epoch': 8.75}
+{'loss': 0.0609, 'grad_norm': 0.12413740903139114, 'learning_rate': 7e-05, 'epoch': 8.88}
+{'loss': 0.0628, 'grad_norm': 0.12628738582134247, 'learning_rate': 7e-05, 'epoch': 9.0}
+{'loss': 0.042, 'grad_norm': 0.07920816540718079, 'learning_rate': 7e-05, 'epoch': 9.12}
+{'loss': 0.0416, 'grad_norm': 0.08337844908237457, 'learning_rate': 7e-05, 'epoch': 9.25}
+{'loss': 0.0586, 'grad_norm': 0.16455036401748657, 'learning_rate': 7e-05, 'epoch': 9.38}
+{'loss': 0.0776, 'grad_norm': 0.12760871648788452, 'learning_rate': 7e-05, 'epoch': 9.5}
+{'loss': 0.0831, 'grad_norm': 0.10019692033529282, 'learning_rate': 7e-05, 'epoch': 9.62}
+{'loss': 0.0721, 'grad_norm': 0.173982173204422, 'learning_rate': 7e-05, 'epoch': 9.75}
+{'loss': 0.0642, 'grad_norm': 0.22255586087703705, 'learning_rate': 7e-05, 'epoch': 9.88}
+{'loss': 0.0731, 'grad_norm': 0.20057430863380432, 'learning_rate': 7e-05, 'epoch': 10.0}
+{'eval_loss': 0.09299734979867935, 'eval_runtime': 56.6687, 'eval_samples_per_second': 1.518, 'eval_steps_per_second': 0.106, 'epoch': 10.0}
+{'loss': 0.0581, 'grad_norm': 0.15555067360401154, 'learning_rate': 7e-05, 'epoch': 10.12}
+{'loss': 0.0666, 'grad_norm': 0.21757268905639648, 'learning_rate': 7e-05, 'epoch': 10.25}
+{'loss': 0.0712, 'grad_norm': 0.1615348905324936, 'learning_rate': 7e-05, 'epoch': 10.38}
+{'loss': 0.0452, 'grad_norm': 0.15985584259033203, 'learning_rate': 7e-05, 'epoch': 10.5}
+{'loss': 0.0358, 'grad_norm': 0.15049907565116882, 'learning_rate': 7e-05, 'epoch': 10.62}
+{'loss': 0.052, 'grad_norm': 0.156633198261261, 'learning_rate': 7e-05, 'epoch': 10.75}
+{'loss': 0.0992, 'grad_norm': 0.47858673334121704, 'learning_rate': 7e-05, 'epoch': 10.88}
+{'loss': 0.0464, 'grad_norm': 0.1843375712633133, 'learning_rate': 7e-05, 'epoch': 11.0}
+{'loss': 0.0618, 'grad_norm': 0.3233831822872162, 'learning_rate': 7e-05, 'epoch': 11.12}
+{'loss': 0.039, 'grad_norm': 0.3196302354335785, 'learning_rate': 7e-05, 'epoch': 11.25}
+{'eval_loss': 0.10272378474473953, 'eval_runtime': 56.7596, 'eval_samples_per_second': 1.515, 'eval_steps_per_second': 0.106, 'epoch': 11.25}
+{'loss': 0.0601, 'grad_norm': 0.3749661147594452, 'learning_rate': 7e-05, 'epoch': 11.38}
+{'loss': 0.0566, 'grad_norm': 0.25404873490333557, 'learning_rate': 7e-05, 'epoch': 11.5}
+{'loss': 0.0443, 'grad_norm': 0.5412325859069824, 'learning_rate': 7e-05, 'epoch': 11.62}
+{'loss': 0.0645, 'grad_norm': 0.3416210412979126, 'learning_rate': 7e-05, 'epoch': 11.75}
+{'loss': 0.0657, 'grad_norm': 0.2714121639728546, 'learning_rate': 7e-05, 'epoch': 11.88}
+{'loss': 0.0427, 'grad_norm': 0.19400009512901306, 'learning_rate': 7e-05, 'epoch': 12.0}
+{'loss': 0.035, 'grad_norm': 0.1624356359243393, 'learning_rate': 7e-05, 'epoch': 12.12}
+{'loss': 0.0562, 'grad_norm': 0.5466394424438477, 'learning_rate': 7e-05, 'epoch': 12.25}
+{'loss': 0.0572, 'grad_norm': 0.26027712225914, 'learning_rate': 7e-05, 'epoch': 12.38}
+{'loss': 0.0427, 'grad_norm': 0.26880162954330444, 'learning_rate': 7e-05, 'epoch': 12.5}
+{'eval_loss': 0.10259956866502762, 'eval_runtime': 56.7423, 'eval_samples_per_second': 1.516, 'eval_steps_per_second': 0.106, 'epoch': 12.5}
+{'loss': 0.0629, 'grad_norm': 0.47256550192832947, 'learning_rate': 7e-05, 'epoch': 12.62}
+{'loss': 0.0516, 'grad_norm': 0.3305630087852478, 'learning_rate': 7e-05, 'epoch': 12.75}
+{'loss': 0.0444, 'grad_norm': 0.23767489194869995, 'learning_rate': 7e-05, 'epoch': 12.88}
+{'loss': 0.0343, 'grad_norm': 0.26169848442077637, 'learning_rate': 7e-05, 'epoch': 13.0}
+{'loss': 0.0404, 'grad_norm': 0.5600631833076477, 'learning_rate': 7e-05, 'epoch': 13.12}
+{'loss': 0.0432, 'grad_norm': 0.7880774736404419, 'learning_rate': 7e-05, 'epoch': 13.25}
+{'loss': 0.0302, 'grad_norm': 0.19604362547397614, 'learning_rate': 7e-05, 'epoch': 13.38}
+{'loss': 0.034, 'grad_norm': 0.5181859135627747, 'learning_rate': 7e-05, 'epoch': 13.5}
+{'loss': 0.0401, 'grad_norm': 0.3342714309692383, 'learning_rate': 7e-05, 'epoch': 13.62}
+{'loss': 0.0406, 'grad_norm': 0.4831324815750122, 'learning_rate': 7e-05, 'epoch': 13.75}
+{'eval_loss': 0.1112762913107872, 'eval_runtime': 56.774, 'eval_samples_per_second': 1.515, 'eval_steps_per_second': 0.106, 'epoch': 13.75}
+{'loss': 0.049, 'grad_norm': 0.470645546913147, 'learning_rate': 7e-05, 'epoch': 13.88}
+{'loss': 0.0275, 'grad_norm': 0.28210610151290894, 'learning_rate': 7e-05, 'epoch': 14.0}
+{'loss': 0.0223, 'grad_norm': 0.4290998876094818, 'learning_rate': 7e-05, 'epoch': 14.12}
+{'loss': 0.0228, 'grad_norm': 0.2789589464664459, 'learning_rate': 7e-05, 'epoch': 14.25}
+{'loss': 0.0206, 'grad_norm': 0.2300514280796051, 'learning_rate': 7e-05, 'epoch': 14.38}
+{'loss': 0.0251, 'grad_norm': 0.293744832277298, 'learning_rate': 7e-05, 'epoch': 14.5}
+{'loss': 0.0218, 'grad_norm': 0.27016663551330566, 'learning_rate': 7e-05, 'epoch': 14.62}
+{'loss': 0.0276, 'grad_norm': 0.4632745683193207, 'learning_rate': 7e-05, 'epoch': 14.75}
+{'loss': 0.0314, 'grad_norm': 0.4532937705516815, 'learning_rate': 7e-05, 'epoch': 14.88}
+{'loss': 0.0242, 'grad_norm': 0.27389252185821533, 'learning_rate': 7e-05, 'epoch': 15.0}
+{'eval_loss': 0.12641897797584534, 'eval_runtime': 56.8364, 'eval_samples_per_second': 1.513, 'eval_steps_per_second': 0.106, 'epoch': 15.0}
+
+💾 Saving model with the current parameters
+💾 Saving model with the current parameters
+
+
+💾 Saving model with the current parameters
+
+💾 Saving model with the current parameters
+
+💾 Saving model with the current parameters
+{'train_runtime': 9249.9261, 'train_samples_per_second': 0.41, 'train_steps_per_second': 0.013, 'train_loss': 0.06798650718604525, 'epoch': 15.0}
+
+💾 Saving model with the current parameters
+
+💾 Saving model with the current parameters
+
+💾 Saving model with the current parameters
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpgSaved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+✓ Training complete!
+Centaur full build run - Training completed!
+Using trainer_state.json from: checkpoint-120
+Contents of '/scratch/axs7716Arsh/centaur-ptsd-finetuned_7e-05_9216_2_2_2_0.05_15':
+runs
+checkpoint-100
+checkpoint-120
+tokenizer_config.json
+special_tokens_map.json
+README.md
+tokenizer.json
+adapter_model.safetensors
+adapter_config.json
+training_args.bin
+Saved combined loss plot to loss_plot_7e-05_9216_2_2_2_0.05_15.jpg
+[2025-12-07 23:23:36,457] [INFO] [launch.py:367:main] Process 891595 exits successfully.
+[2025-12-07 23:23:38,458] [INFO] [launch.py:367:main] Process 891597 exits successfully.
+[2025-12-07 23:23:39,458] [INFO] [launch.py:367:main] Process 891598 exits successfully.
+[2025-12-07 23:23:40,459] [INFO] [launch.py:367:main] Process 891596 exits successfully.
+[2025-12-07 23:23:41,459] [INFO] [launch.py:367:main] Process 891599 exits successfully.
+[2025-12-07 23:23:42,460] [INFO] [launch.py:367:main] Process 891602 exits successfully.
+[2025-12-07 23:23:43,461] [INFO] [launch.py:367:main] Process 891600 exits successfully.
+[2025-12-07 23:23:45,462] [INFO] [launch.py:367:main] Process 891594 exits successfully.
