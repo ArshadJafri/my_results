@@ -1,0 +1,125 @@
+2025-11-27 12:55:23.536935: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:23.586894: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:26.049645: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:36.797194: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:36.844739: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:38.695933: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 12:55:46.560162: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:46.605683: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:48.577474: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:48.662452: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:48.707720: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:48.745868: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:48.792456: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:48.815067: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:48.860440: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:55:50.637753: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:50.672713: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:55:50.768363: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank3]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank3]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank3]:     model = AutoModelForCausalLM.from_pretrained(
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank3]:     return model_class.from_pretrained(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank3]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank3]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank1]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank1]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank1]:     model = AutoModelForCausalLM.from_pretrained(
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank1]:     return model_class.from_pretrained(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank1]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank1]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank2]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank2]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank2]:     model = AutoModelForCausalLM.from_pretrained(
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank2]:     return model_class.from_pretrained(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank2]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank2]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank0]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank0]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank0]:     model = AutoModelForCausalLM.from_pretrained(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank0]:     return model_class.from_pretrained(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank0]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank0]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank0]:[W1127 12:56:16.700886001 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())

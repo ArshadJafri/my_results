@@ -1,0 +1,215 @@
+The following values were not passed to `accelerate launch` and had defaults used instead:
+	`--num_machines` was set to a value of `1`
+	`--mixed_precision` was set to a value of `'no'`
+	`--dynamo_backend` was set to a value of `'no'`
+To avoid this warning pass in values for each of the problematic parameters or run `accelerate config`.
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 12:09:53.192203: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:53.238742: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:09:54.850897: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:54.895084: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:09:54.965352: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:54.986535: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:55.008427: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:09:55.030265: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:09:56.905433: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:56.906765: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:57.028466: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:09:57.058888: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.19s/it]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.19s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.11s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.13s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:06,  1.24s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.21s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.11s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.12s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.15s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:04<00:04,  1.48s/it]
+Loading checkpoint shards:  33%|███▎      | 2/6 [00:03<00:06,  1.50s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.49s/it]
+
+Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:05,  1.50s/it]
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 288, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 162, in main
+[rank3]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank3]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank3]:     model = AutoModelForCausalLM.from_pretrained(
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank3]:     return model_class.from_pretrained(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+[rank3]:     ) = cls._load_pretrained_model(
+[rank3]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+[rank3]:     _error_msgs, disk_offload_index = load_shard_file(args)
+[rank3]:                                       ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 843, in load_shard_file
+[rank3]:     disk_offload_index = _load_state_dict_into_meta_model(
+[rank3]:                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 748, in _load_state_dict_into_meta_model
+[rank3]:     param = param[...]
+[rank3]:             ~~~~~^^^^^
+[rank3]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 112.00 MiB. GPU 0 has a total capacity of 79.19 GiB of which 29.31 MiB is free. Process 2091052 has 18.21 GiB memory in use. Process 2091050 has 24.68 GiB memory in use. Process 2091051 has 18.03 GiB memory in use. Including non-PyTorch memory, this process has 18.21 GiB memory in use. Of the allocated memory 17.61 GiB is allocated by PyTorch, and 4.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 288, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 162, in main
+[rank0]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank0]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank0]:     model = AutoModelForCausalLM.from_pretrained(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank0]:     return model_class.from_pretrained(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+[rank0]:     ) = cls._load_pretrained_model(
+[rank0]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+[rank0]:     _error_msgs, disk_offload_index = load_shard_file(args)
+[rank0]:                                       ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 843, in load_shard_file
+[rank0]:     disk_offload_index = _load_state_dict_into_meta_model(
+[rank0]:                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 748, in _load_state_dict_into_meta_model
+[rank0]:     param = param[...]
+[rank0]:             ~~~~~^^^^^
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 112.00 MiB. GPU 0 has a total capacity of 79.19 GiB of which 29.31 MiB is free. Process 2091052 has 18.21 GiB memory in use. Including non-PyTorch memory, this process has 24.68 GiB memory in use. Process 2091051 has 18.03 GiB memory in use. Process 2091053 has 18.21 GiB memory in use. Of the allocated memory 24.00 GiB is allocated by PyTorch, and 16.18 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 288, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 162, in main
+[rank2]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank2]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank2]:     model = AutoModelForCausalLM.from_pretrained(
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank2]:     return model_class.from_pretrained(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+[rank2]:     ) = cls._load_pretrained_model(
+[rank2]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+[rank2]:     _error_msgs, disk_offload_index = load_shard_file(args)
+[rank2]:                                       ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 843, in load_shard_file
+[rank2]:     disk_offload_index = _load_state_dict_into_meta_model(
+[rank2]:                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 748, in _load_state_dict_into_meta_model
+[rank2]:     param = param[...]
+[rank2]:             ~~~~~^^^^^
+[rank2]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 112.00 MiB. GPU 0 has a total capacity of 79.19 GiB of which 11.31 MiB is free. Including non-PyTorch memory, this process has 18.21 GiB memory in use. Process 2091050 has 24.70 GiB memory in use. Process 2091051 has 18.03 GiB memory in use. Process 2091053 has 18.21 GiB memory in use. Of the allocated memory 17.61 GiB is allocated by PyTorch, and 4.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 288, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 162, in main
+[rank1]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank1]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank1]:     model = AutoModelForCausalLM.from_pretrained(
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank1]:     return model_class.from_pretrained(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+[rank1]:     ) = cls._load_pretrained_model(
+[rank1]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+[rank1]:     _error_msgs, disk_offload_index = load_shard_file(args)
+[rank1]:                                       ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 843, in load_shard_file
+[rank1]:     disk_offload_index = _load_state_dict_into_meta_model(
+[rank1]:                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 748, in _load_state_dict_into_meta_model
+[rank1]:     param = param[...]
+[rank1]:             ~~~~~^^^^^
+[rank1]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 112.00 MiB. GPU 0 has a total capacity of 79.19 GiB of which 11.31 MiB is free. Process 2091052 has 18.21 GiB memory in use. Process 2091050 has 24.68 GiB memory in use. Including non-PyTorch memory, this process has 18.03 GiB memory in use. Process 2091053 has 18.21 GiB memory in use. Of the allocated memory 17.42 GiB is allocated by PyTorch, and 12.09 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank0]:[W1127 12:10:26.653621307 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+W1127 12:10:34.428000 2090906 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091050 closing signal SIGTERM
+W1127 12:10:34.430000 2090906 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091051 closing signal SIGTERM
+W1127 12:10:34.430000 2090906 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091053 closing signal SIGTERM
+E1127 12:10:35.562000 2090906 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 2 (pid: 2091052) of binary: /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12
+Traceback (most recent call last):
+  File "/home/axs7716/anaconda3/envs/arsh_env/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/commands/launch.py", line 1226, in launch_command
+    multi_gpu_launcher(args)
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/commands/launch.py", line 853, in multi_gpu_launcher
+    distrib_run.run(args)
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+Finetuning_V3_11-19-2025.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-27_12:10:34
+  host      : h100-4s-02
+  rank      : 2 (local_rank: 2)
+  exitcode  : 1 (pid: 2091052)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================

@@ -1,0 +1,138 @@
+2025-11-27 13:02:29.760470: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:29.809539: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:32.218424: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:43.316436: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:43.364409: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:45.205414: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 13:02:54.400641: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:54.447329: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:54.812601: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:54.858434: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:55.330276: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:55.357248: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:55.377534: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:55.403302: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:02:56.570276: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:56.951941: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:57.338264: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:02:57.492588: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank1]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank1]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank1]:     model = AutoModelForCausalLM.from_pretrained(
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank1]:     return model_class.from_pretrained(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank1]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank1]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank2]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank2]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank2]:     model = AutoModelForCausalLM.from_pretrained(
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank2]:     return model_class.from_pretrained(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank2]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank2]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank3]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank3]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank3]:     model = AutoModelForCausalLM.from_pretrained(
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank3]:     return model_class.from_pretrained(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank3]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank3]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank0]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank0]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank0]:     model = AutoModelForCausalLM.from_pretrained(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank0]:     return model_class.from_pretrained(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4804, in from_pretrained
+[rank0]:     raise ValueError("DeepSpeed Zero-3 is not compatible with passing a `device_map`.")
+[rank0]: ValueError: DeepSpeed Zero-3 is not compatible with passing a `device_map`.
+[rank0]:[W1127 13:03:25.056297885 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank2]:[W1127 13:03:26.059292360 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=73, addr=[localhost]:34226, remote=[localhost]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:697 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x70bff08ceb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x70bf3f4cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe92d (0x70bf3f4ce92d in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x70bf3f4cf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x70bf3f4ca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x70befe0486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x70bff42e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x70c00449caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x70c004529c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank2]:[W1127 13:03:26.068601801 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0(default_pg) Rank 2] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?

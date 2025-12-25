@@ -1,0 +1,61 @@
+df: /home/axs7716/.triton/autotune: No such file or directory
+2025-11-27 12:37:53.376276: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:37:53.426309: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:37:55.801526: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:06.834473: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:06.881390: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:38:08.741389: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 12:38:16.233414: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:16.279106: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:38:18.096240: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:18.143049: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:38:18.228053: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:18.348752: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:18.394001: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:38:18.457191: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:18.502440: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:38:20.058208: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:20.245956: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:38:20.287721: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 54, in <module>
+    learning_rate = float(sys.argv[1])
+                    ^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '--local_rank=2'
+Traceback (most recent call last):
+  File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 54, in <module>
+    learning_rate = float(sys.argv[1])
+                    ^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '--local_rank=3'
+Traceback (most recent call last):
+  File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 54, in <module>
+    learning_rate = float(sys.argv[1])
+                    ^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '--local_rank=1'
+Traceback (most recent call last):
+  File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 54, in <module>
+    learning_rate = float(sys.argv[1])
+                    ^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '--local_rank=0'

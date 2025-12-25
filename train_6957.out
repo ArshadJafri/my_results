@@ -1,0 +1,91 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-11-27 12:59:27,589] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-11-27 12:59:27,589] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgM119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V3_11-19-2025.py 0.0002 16384 2 4 4 0.01 10
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-11-27 12:59:39,886] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3]}
+[2025-11-27 12:59:39,886] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=4, node_rank=0
+[2025-11-27 12:59:39,886] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3]})
+[2025-11-27 12:59:39,886] [INFO] [launch.py:180:main] dist_world_size=4
+[2025-11-27 12:59:39,886] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3
+[2025-11-27 12:59:39,887] [INFO] [launch.py:272:main] process 2096189 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=0', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:59:39,888] [INFO] [launch.py:272:main] process 2096190 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=1', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:59:39,889] [INFO] [launch.py:272:main] process 2096191 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=2', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:59:39,890] [INFO] [launch.py:272:main] process 2096192 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=3', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size: 4
+Epochs: 10
+Learning rate: 0.0002
+============================================================
+
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size: 4
+Epochs: 10
+Learning rate: 0.0002
+============================================================
+
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size: 4
+Epochs: 10
+Learning rate: 0.0002
+============================================================
+
+
+============================================================
+🚀 STARTING TRAINING WITH ORIGINAL CENTAUR PARAMETERS
+Base model: marcelbinz/Llama-3.1-Centaur-70B-adapter
+Effective batch size: 4
+Epochs: 10
+Learning rate: 0.0002
+============================================================
+
+==((====))==  Unsloth 2025.11.3: Fast Llama patching. Transformers: 4.57.1.
+   \\   /|    NVIDIA H100 80GB HBM3. Num GPUs = 4. Max memory: 79.189 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.9.0+cu128. CUDA: 9.0. CUDA Toolkit: 12.8. Triton: 3.5.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.33.post1. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth 2025.11.3: Fast Llama patching. Transformers: 4.57.1.
+   \\   /|    NVIDIA H100 80GB HBM3. Num GPUs = 4. Max memory: 79.189 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.9.0+cu128. CUDA: 9.0. CUDA Toolkit: 12.8. Triton: 3.5.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.33.post1. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth 2025.11.3: Fast Llama patching. Transformers: 4.57.1.
+   \\   /|    NVIDIA H100 80GB HBM3. Num GPUs = 4. Max memory: 79.189 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.9.0+cu128. CUDA: 9.0. CUDA Toolkit: 12.8. Triton: 3.5.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.33.post1. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth 2025.11.3: Fast Llama patching. Transformers: 4.57.1.
+   \\   /|    NVIDIA H100 80GB HBM3. Num GPUs = 4. Max memory: 79.189 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.9.0+cu128. CUDA: 9.0. CUDA Toolkit: 12.8. Triton: 3.5.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.33.post1. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+[2025-11-27 13:00:17,896] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2096189
+[2025-11-27 13:00:17,977] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2096190
+[2025-11-27 13:00:18,418] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2096191
+[2025-11-27 13:00:18,418] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2096192
+[2025-11-27 13:00:18,446] [ERROR] [launch.py:341:sigkill_handler] ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=3', '0.0002', '16384', '2', '4', '4', '0.01', '10'] exits with return code = 1

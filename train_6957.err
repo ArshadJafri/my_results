@@ -1,0 +1,157 @@
+2025-11-27 12:59:21.883716: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:21.932650: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:24.496195: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:35.648497: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:35.695594: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:37.361903: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 12:59:44.983279: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:45.028961: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:46.739239: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:46.784780: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:46.949974: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:47.174587: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:47.223118: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:47.307951: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:47.354259: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:59:48.577349: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:49.084335: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:59:49.187300: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4788, in from_pretrained
+[rank2]:     device_map = {"": torch.device(device_map)}
+[rank2]:                       ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]: RuntimeError: Expected one of cpu, cuda, ipu, xpu, mkldnn, opengl, opencl, ideep, hip, ve, fpga, maia, xla, lazy, vulkan, mps, meta, hpu, mtia, privateuseone device type at start of device string: none
+
+[rank2]: During handling of the above exception, another exception occurred:
+
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank2]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank2]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank2]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank2]:     model = AutoModelForCausalLM.from_pretrained(
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank2]:     return model_class.from_pretrained(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4790, in from_pretrained
+[rank2]:     raise ValueError(
+[rank2]: ValueError: When passing device_map as a string, the value needs to be a device name (e.g. cpu, cuda:0) or 'auto', 'balanced', 'balanced_low_0', 'sequential' but found none.
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4788, in from_pretrained
+[rank3]:     device_map = {"": torch.device(device_map)}
+[rank3]:                       ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]: RuntimeError: Expected one of cpu, cuda, ipu, xpu, mkldnn, opengl, opencl, ideep, hip, ve, fpga, maia, xla, lazy, vulkan, mps, meta, hpu, mtia, privateuseone device type at start of device string: none
+
+[rank3]: During handling of the above exception, another exception occurred:
+
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank3]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank3]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank3]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank3]:     model = AutoModelForCausalLM.from_pretrained(
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank3]:     return model_class.from_pretrained(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4790, in from_pretrained
+[rank3]:     raise ValueError(
+[rank3]: ValueError: When passing device_map as a string, the value needs to be a device name (e.g. cpu, cuda:0) or 'auto', 'balanced', 'balanced_low_0', 'sequential' but found none.
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4788, in from_pretrained
+[rank1]:     device_map = {"": torch.device(device_map)}
+[rank1]:                       ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]: RuntimeError: Expected one of cpu, cuda, ipu, xpu, mkldnn, opengl, opencl, ideep, hip, ve, fpga, maia, xla, lazy, vulkan, mps, meta, hpu, mtia, privateuseone device type at start of device string: none
+
+[rank1]: During handling of the above exception, another exception occurred:
+
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank1]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank1]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank1]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank1]:     model = AutoModelForCausalLM.from_pretrained(
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank1]:     return model_class.from_pretrained(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4790, in from_pretrained
+[rank1]:     raise ValueError(
+[rank1]: ValueError: When passing device_map as a string, the value needs to be a device name (e.g. cpu, cuda:0) or 'auto', 'balanced', 'balanced_low_0', 'sequential' but found none.
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4788, in from_pretrained
+[rank0]:     device_map = {"": torch.device(device_map)}
+[rank0]:                       ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]: RuntimeError: Expected one of cpu, cuda, ipu, xpu, mkldnn, opengl, opencl, ideep, hip, ve, fpga, maia, xla, lazy, vulkan, mps, meta, hpu, mtia, privateuseone device type at start of device string: none
+
+[rank0]: During handling of the above exception, another exception occurred:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 292, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 163, in main
+[rank0]:     model, tokenizer = FastLanguageModel.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 499, in from_pretrained
+[rank0]:     model, tokenizer = dispatch_model.from_pretrained(
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 2335, in from_pretrained
+[rank0]:     model = AutoModelForCausalLM.from_pretrained(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+[rank0]:     return model_class.from_pretrained(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4790, in from_pretrained
+[rank0]:     raise ValueError(
+[rank0]: ValueError: When passing device_map as a string, the value needs to be a device name (e.g. cpu, cuda:0) or 'auto', 'balanced', 'balanced_low_0', 'sequential' but found none.
+[rank0]:[W1127 13:00:15.602985901 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())

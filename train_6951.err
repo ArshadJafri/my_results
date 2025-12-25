@@ -1,0 +1,149 @@
+W1127 12:15:46.331000 2091197 site-packages/torch/distributed/run.py:803] 
+W1127 12:15:46.331000 2091197 site-packages/torch/distributed/run.py:803] *****************************************
+W1127 12:15:46.331000 2091197 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1127 12:15:46.331000 2091197 site-packages/torch/distributed/run.py:803] *****************************************
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+/home/axs7716/my_model/Finetuning_V3_11-19-2025.py:23: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  import unsloth
+2025-11-27 12:15:57.064079: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:57.064174: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:57.064794: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:57.114437: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:15:57.114452: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:15:57.114615: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:15:57.122432: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:57.177962: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 12:15:59.637337: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:59.638124: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:59.638587: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 12:15:59.639720: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.10s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.08s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.08s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.01s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.09s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.07s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.07s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.01s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.10s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.08s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.08s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.02s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.11s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.11s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.08s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.09s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.11s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.10s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.08s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.03it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.04s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.03it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.03s/it]
+Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.23s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.00s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.04s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.22s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.16s/it]
+Unsloth 2025.11.3 patched 80 layers with 80 QKV layers, 80 O layers and 80 MLP layers.
+Unsloth 2025.11.3 patched 80 layers with 80 QKV layers, 80 O layers and 80 MLP layers.
+Unsloth 2025.11.3 patched 80 layers with 80 QKV layers, 80 O layers and 80 MLP layers.
+Unsloth: Already have LoRA adapters! We shall skip this step.
+Unsloth: Already have LoRA adapters! We shall skip this step.
+Unsloth: Already have LoRA adapters! We shall skip this step.
+Unsloth 2025.11.3 patched 80 layers with 80 QKV layers, 80 O layers and 80 MLP layers.
+Unsloth: Already have LoRA adapters! We shall skip this step.
+You have loaded a model on multiple GPUs. `is_model_parallel` attribute will be force-set to `True` to avoid any unexpected behavior such as device placement mismatching.
+Using auto half precision backend
+skipped Embedding(128256, 8192, padding_idx=128004): 1002.0M params
+skipped: 1002.0M params
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 236, in main
+[rank0]:     trainer.train(resume_from_checkpoint=None)
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/sft_trainer.py", line 361, in train
+[rank0]:     output = super().train(*args, **kwargs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "<string>", line 128, in _fast_inner_training_loop
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 1476, in prepare
+[rank0]:     raise ValueError(
+[rank0]: ValueError: You can't train a model that has been loaded with `device_map='auto'` in any distributed mode. Please rerun your script specifying `--num_processes=1` or by launching with `python {{myscript.py}}`.
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 236, in main
+[rank3]:     trainer.train(resume_from_checkpoint=None)
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/sft_trainer.py", line 361, in train
+[rank3]:     output = super().train(*args, **kwargs)
+[rank3]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank3]:     return inner_training_loop(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "<string>", line 128, in _fast_inner_training_loop
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 1476, in prepare
+[rank3]:     raise ValueError(
+[rank3]: ValueError: You can't train a model that has been loaded with `device_map='auto'` in any distributed mode. Please rerun your script specifying `--num_processes=1` or by launching with `python {{myscript.py}}`.
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 236, in main
+[rank1]:     trainer.train(resume_from_checkpoint=None)
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/sft_trainer.py", line 361, in train
+[rank1]:     output = super().train(*args, **kwargs)
+[rank1]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank1]:     return inner_training_loop(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "<string>", line 128, in _fast_inner_training_loop
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 1476, in prepare
+[rank1]:     raise ValueError(
+[rank1]: ValueError: You can't train a model that has been loaded with `device_map='auto'` in any distributed mode. Please rerun your script specifying `--num_processes=1` or by launching with `python {{myscript.py}}`.
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 289, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V3_11-19-2025.py", line 236, in main
+[rank2]:     trainer.train(resume_from_checkpoint=None)
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/sft_trainer.py", line 361, in train
+[rank2]:     output = super().train(*args, **kwargs)
+[rank2]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank2]:     return inner_training_loop(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "<string>", line 128, in _fast_inner_training_loop
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 1476, in prepare
+[rank2]:     raise ValueError(
+[rank2]: ValueError: You can't train a model that has been loaded with `device_map='auto'` in any distributed mode. Please rerun your script specifying `--num_processes=1` or by launching with `python {{myscript.py}}`.
+[rank0]:[W1127 12:16:43.621139729 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+W1127 12:16:46.070000 2091197 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091276 closing signal SIGTERM
+W1127 12:16:46.072000 2091197 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091277 closing signal SIGTERM
+W1127 12:16:46.073000 2091197 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2091278 closing signal SIGTERM
+E1127 12:16:47.369000 2091197 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 3 (pid: 2091279) of binary: /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12
+Traceback (most recent call last):
+  File "/home/axs7716/anaconda3/envs/arsh_env/bin/torchrun", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+Finetuning_V3_11-19-2025.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-27_12:16:46
+  host      : h100-4s-02
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 2091279)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================

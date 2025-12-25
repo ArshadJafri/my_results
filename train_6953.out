@@ -1,0 +1,31 @@
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-11-27 12:37:58,770] [WARNING] [runner.py:232:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0,1,2,3 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-11-27 12:37:58,770] [INFO] [runner.py:630:main] cmd = /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgM119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None --log_level=info Finetuning_V3_11-19-2025.py 0.0002 16384 2 4 4 0.01 10
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-11-27 12:38:11,310] [INFO] [launch.py:162:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3]}
+[2025-11-27 12:38:11,310] [INFO] [launch.py:168:main] nnodes=1, num_local_procs=4, node_rank=0
+[2025-11-27 12:38:11,310] [INFO] [launch.py:179:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3]})
+[2025-11-27 12:38:11,310] [INFO] [launch.py:180:main] dist_world_size=4
+[2025-11-27 12:38:11,310] [INFO] [launch.py:184:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3
+[2025-11-27 12:38:11,311] [INFO] [launch.py:272:main] process 2091839 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=0', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:38:11,312] [INFO] [launch.py:272:main] process 2091840 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=1', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:38:11,313] [INFO] [launch.py:272:main] process 2091841 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=2', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+[2025-11-27 12:38:11,313] [INFO] [launch.py:272:main] process 2091842 spawned with command: ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=3', '0.0002', '16384', '2', '4', '4', '0.01', '10']
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Warning: The cache directory for DeepSpeed Triton autotune, /home/axs7716/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-11-27 12:38:38,318] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2091839
+[2025-11-27 12:38:38,347] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2091840
+[2025-11-27 12:38:38,348] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2091841
+[2025-11-27 12:38:38,627] [INFO] [launch.py:335:sigkill_handler] Killing subprocess 2091842
+[2025-11-27 12:38:38,655] [ERROR] [launch.py:341:sigkill_handler] ['/home/axs7716/anaconda3/envs/arsh_env/bin/python3.12', '-u', 'Finetuning_V3_11-19-2025.py', '--local_rank=3', '0.0002', '16384', '2', '4', '4', '0.01', '10'] exits with return code = 1
