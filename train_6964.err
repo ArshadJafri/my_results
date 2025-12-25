@@ -1,0 +1,260 @@
+2025-11-27 13:39:10.651717: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:10.701528: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:12.884607: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:23.948520: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:24.012494: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:25.800426: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:32.880873: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:32.928271: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:33.049438: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:33.078654: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:33.097056: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:33.125259: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:33.158295: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:33.213467: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-27 13:39:35.065823: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:35.152775: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:35.189701: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-27 13:39:35.445919: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:19,  3.82s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:19,  3.81s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:03<00:18,  3.76s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:04<00:23,  4.73s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:17,  4.35s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:17,  4.34s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:08<00:17,  4.30s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:10<00:22,  5.52s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:13,  4.44s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:13,  4.43s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:13<00:13,  4.44s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:16<00:17,  5.69s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:17<00:08,  4.44s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:17<00:08,  4.43s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:17<00:08,  4.47s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:21<00:04,  4.43s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:21<00:04,  4.42s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:22<00:04,  4.47s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:22<00:11,  5.80s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  3.58s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  3.98s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  3.58s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  3.97s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  3.62s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:23<00:00,  4.00s/it]
+Loading checkpoint shards:  83%|████████▎ | 5/6 [00:27<00:05,  5.61s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:30<00:00,  4.71s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:30<00:00,  5.15s/it]
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:219: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+Using auto half precision backend
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:219: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+Gradient accumulation steps mismatch: GradientAccumulationPlugin has 1, DeepSpeed config has 4. Using DeepSpeed's value.
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:219: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:219: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'pad_token_id': 0}.
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 289, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 230, in main
+[rank3]:     trainer.train(resume_from_checkpoint=None)
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank3]:     return inner_training_loop(
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2618, in _inner_training_loop
+[rank3]:     batch_samples, num_items_in_batch = self.get_batch_samples(epoch_iterator, num_batches, args.device)
+[rank3]:                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 5654, in get_batch_samples
+[rank3]:     batch_samples.append(next(epoch_iterator))
+[rank3]:                          ^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/data_loader.py", line 567, in __iter__
+[rank3]:     current_batch = next(dataloader_iter)
+[rank3]:                     ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 732, in __next__
+[rank3]:     data = self._next_data()
+[rank3]:            ^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 788, in _next_data
+[rank3]:     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+[rank3]:     return self.collate_fn(data)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 45, in __call__
+[rank3]:     return self.torch_call(features)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/utils.py", line 126, in torch_call
+[rank3]:     batch = super().torch_call(examples)
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 1033, in torch_call
+[rank3]:     batch = pad_without_fast_tokenizer_warning(
+[rank3]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+[rank3]:     padded = tokenizer.pad(*pad_args, **pad_kwargs)
+[rank3]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3374, in pad
+[rank3]:     raise ValueError(
+[rank3]: ValueError: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided ['text', 'experiment', 'participant']
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 289, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 230, in main
+[rank2]:     trainer.train(resume_from_checkpoint=None)
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank2]:     return inner_training_loop(
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2618, in _inner_training_loop
+[rank2]:     batch_samples, num_items_in_batch = self.get_batch_samples(epoch_iterator, num_batches, args.device)
+[rank2]:                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 5654, in get_batch_samples
+[rank2]:     batch_samples.append(next(epoch_iterator))
+[rank2]:                          ^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/data_loader.py", line 567, in __iter__
+[rank2]:     current_batch = next(dataloader_iter)
+[rank2]:                     ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 732, in __next__
+[rank2]:     data = self._next_data()
+[rank2]:            ^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 788, in _next_data
+[rank2]:     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+[rank2]:     return self.collate_fn(data)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 45, in __call__
+[rank2]:     return self.torch_call(features)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/utils.py", line 126, in torch_call
+[rank2]:     batch = super().torch_call(examples)
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 1033, in torch_call
+[rank2]:     batch = pad_without_fast_tokenizer_warning(
+[rank2]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+[rank2]:     padded = tokenizer.pad(*pad_args, **pad_kwargs)
+[rank2]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3374, in pad
+[rank2]:     raise ValueError(
+[rank2]: ValueError: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided ['text', 'experiment', 'participant']
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 289, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 230, in main
+[rank1]:     trainer.train(resume_from_checkpoint=None)
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank1]:     return inner_training_loop(
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2618, in _inner_training_loop
+[rank1]:     batch_samples, num_items_in_batch = self.get_batch_samples(epoch_iterator, num_batches, args.device)
+[rank1]:                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 5654, in get_batch_samples
+[rank1]:     batch_samples.append(next(epoch_iterator))
+[rank1]:                          ^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/data_loader.py", line 567, in __iter__
+[rank1]:     current_batch = next(dataloader_iter)
+[rank1]:                     ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 732, in __next__
+[rank1]:     data = self._next_data()
+[rank1]:            ^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 788, in _next_data
+[rank1]:     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+[rank1]:     return self.collate_fn(data)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 45, in __call__
+[rank1]:     return self.torch_call(features)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/utils.py", line 126, in torch_call
+[rank1]:     batch = super().torch_call(examples)
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 1033, in torch_call
+[rank1]:     batch = pad_without_fast_tokenizer_warning(
+[rank1]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+[rank1]:     padded = tokenizer.pad(*pad_args, **pad_kwargs)
+[rank1]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3374, in pad
+[rank1]:     raise ValueError(
+[rank1]: ValueError: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided ['text', 'experiment', 'participant']
+***** Running training *****
+  Num examples = 181
+  Num Epochs = 10
+  Instantaneous batch size per device = 2
+  Total train batch size (w. parallel, distributed & accumulation) = 32
+  Gradient Accumulation steps = 4
+  Total optimization steps = 60
+  Number of trainable parameters = 103,546,880
+  0%|          | 0/60 [00:00<?, ?it/s][rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 289, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 230, in main
+[rank0]:     trainer.train(resume_from_checkpoint=None)
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2325, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 2618, in _inner_training_loop
+[rank0]:     batch_samples, num_items_in_batch = self.get_batch_samples(epoch_iterator, num_batches, args.device)
+[rank0]:                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 5654, in get_batch_samples
+[rank0]:     batch_samples.append(next(epoch_iterator))
+[rank0]:                          ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/data_loader.py", line 567, in __iter__
+[rank0]:     current_batch = next(dataloader_iter)
+[rank0]:                     ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 732, in __next__
+[rank0]:     data = self._next_data()
+[rank0]:            ^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 788, in _next_data
+[rank0]:     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+[rank0]:     return self.collate_fn(data)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 45, in __call__
+[rank0]:     return self.torch_call(features)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/trl/trainer/utils.py", line 126, in torch_call
+[rank0]:     batch = super().torch_call(examples)
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 1033, in torch_call
+[rank0]:     batch = pad_without_fast_tokenizer_warning(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+[rank0]:     padded = tokenizer.pad(*pad_args, **pad_kwargs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3374, in pad
+[rank0]:     raise ValueError(
+[rank0]: ValueError: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided ['text', 'experiment', 'participant']
+  0%|          | 0/60 [00:00<?, ?it/s]
+[rank3]:[W1127 13:43:06.363419303 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=49, addr=[localhost]:32840, remote=[localhost]:29500): Connection reset by peer
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:694 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x80 (0x7e686137bb80 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x5ffd531 (0x7e67ab2cd531 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x5ffe993 (0x7e67ab2ce993 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: <unknown function> + 0x5fff4da (0x7e67ab2cf4da in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x31e (0x7e67ab2ca1fe in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x3c8 (0x7e6769e486b8 in /home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/lib/libtorch_cuda.so)
+frame #6: <unknown function> + 0xdf0e6 (0x7e68666e90e6 in /home/axs7716/anaconda3/envs/arsh_env/bin/../lib/libstdc++.so.6)
+frame #7: <unknown function> + 0x9caa4 (0x7e687169caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #8: <unknown function> + 0x129c6c (0x7e6871729c6c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank3]:[W1127 13:43:06.369469620 ProcessGroupNCCL.cpp:1771] [PG ID 0 PG GUID 0(default_pg) Rank 3] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Connection reset by peer

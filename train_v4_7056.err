@@ -1,0 +1,221 @@
+W1129 02:34:47.163000 2339187 site-packages/torch/distributed/run.py:803] 
+W1129 02:34:47.163000 2339187 site-packages/torch/distributed/run.py:803] *****************************************
+W1129 02:34:47.163000 2339187 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1129 02:34:47.163000 2339187 site-packages/torch/distributed/run.py:803] *****************************************
+2025-11-29 02:34:54.469291: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:54.516973: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 02:34:56.995231: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:57.041752: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 02:34:57.497188: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:58.037044: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:58.082523: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 02:34:58.790030: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:59.726899: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:34:59.772471: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-11-29 02:34:59.873798: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-11-29 02:35:01.700603: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]`torch_dtype` is deprecated! Use `dtype` instead!
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/quantizers/auto.py:239: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.10s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.14s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.09s/it]Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.12s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.14s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.12s/it]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.19s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.14s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.14s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.12s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:02<00:04,  1.22s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.15s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.15s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.14s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:03<00:03,  1.22s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.14s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.14s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:05<00:01,  1.13s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.02it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.06s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.02it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.06s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.03it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.05s/it]
+Loading checkpoint shards:  67%|██████▋   | 4/6 [00:04<00:02,  1.22s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:06<00:01,  1.20s/it]/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.04s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:06<00:00,  1.13s/it]
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:235: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:235: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:235: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 304, in <module>
+[rank3]:     main(model_args, data_args, training_args)
+[rank3]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 235, in main
+[rank3]:     trainer = Trainer(
+[rank3]:               ^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+[rank3]:     return func(*args, **kwargs)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 623, in __init__
+[rank3]:     unwrapped_model = self.accelerator.unwrap_model(model)
+[rank3]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 3134, in unwrap_model
+[rank3]:     return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
+[rank3]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/utils/other.py", line 251, in extract_model_from_parallel
+[rank3]:     from deepspeed import DeepSpeedEngine
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/__init__.py", line 25, in <module>
+[rank3]:     from . import ops
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
+[rank3]:     from ..git_version_info import compatible_ops as __compatible_ops__
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/git_version_info.py", line 29, in <module>
+[rank3]:     op_compatible = builder.is_compatible()
+[rank3]:                     ^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
+[rank3]:     sys_cuda_major, _ = installed_cuda_version()
+[rank3]:                         ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
+[rank3]:     raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
+[rank3]: deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 304, in <module>
+[rank2]:     main(model_args, data_args, training_args)
+[rank2]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 235, in main
+[rank2]:     trainer = Trainer(
+[rank2]:               ^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+[rank2]:     return func(*args, **kwargs)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 623, in __init__
+[rank2]:     unwrapped_model = self.accelerator.unwrap_model(model)
+[rank2]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 3134, in unwrap_model
+[rank2]:     return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
+[rank2]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/utils/other.py", line 251, in extract_model_from_parallel
+[rank2]:     from deepspeed import DeepSpeedEngine
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/__init__.py", line 25, in <module>
+[rank2]:     from . import ops
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
+[rank2]:     from ..git_version_info import compatible_ops as __compatible_ops__
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/git_version_info.py", line 29, in <module>
+[rank2]:     op_compatible = builder.is_compatible()
+[rank2]:                     ^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
+[rank2]:     sys_cuda_major, _ = installed_cuda_version()
+[rank2]:                         ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
+[rank2]:     raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
+[rank2]: deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 304, in <module>
+[rank0]:     main(model_args, data_args, training_args)
+[rank0]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 235, in main
+[rank0]:     trainer = Trainer(
+[rank0]:               ^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 623, in __init__
+[rank0]:     unwrapped_model = self.accelerator.unwrap_model(model)
+[rank0]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 3134, in unwrap_model
+[rank0]:     return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/utils/other.py", line 251, in extract_model_from_parallel
+[rank0]:     from deepspeed import DeepSpeedEngine
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/__init__.py", line 25, in <module>
+[rank0]:     from . import ops
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
+[rank0]:     from ..git_version_info import compatible_ops as __compatible_ops__
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/git_version_info.py", line 29, in <module>
+[rank0]:     op_compatible = builder.is_compatible()
+[rank0]:                     ^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
+[rank0]:     sys_cuda_major, _ = installed_cuda_version()
+[rank0]:                         ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
+[rank0]:     raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
+[rank0]: deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/mapping_func.py:72: UserWarning: You are trying to modify a model with PEFT for a second time. If you want to reload the model with a different config, make sure to call `.unload()` before.
+  warnings.warn(
+/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/peft/tuners/tuners_utils.py:282: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+[rank0]:[W1129 02:35:20.755523017 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+/home/axs7716/my_model/Finetuning_V4-deepseek.py:235: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 304, in <module>
+[rank1]:     main(model_args, data_args, training_args)
+[rank1]:   File "/home/axs7716/my_model/Finetuning_V4-deepseek.py", line 235, in main
+[rank1]:     trainer = Trainer(
+[rank1]:               ^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+[rank1]:     return func(*args, **kwargs)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/transformers/trainer.py", line 623, in __init__
+[rank1]:     unwrapped_model = self.accelerator.unwrap_model(model)
+[rank1]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/accelerator.py", line 3134, in unwrap_model
+[rank1]:     return extract_model_from_parallel(model, keep_fp32_wrapper, keep_torch_compile)
+[rank1]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/accelerate/utils/other.py", line 251, in extract_model_from_parallel
+[rank1]:     from deepspeed import DeepSpeedEngine
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/__init__.py", line 25, in <module>
+[rank1]:     from . import ops
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/__init__.py", line 15, in <module>
+[rank1]:     from ..git_version_info import compatible_ops as __compatible_ops__
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/git_version_info.py", line 29, in <module>
+[rank1]:     op_compatible = builder.is_compatible()
+[rank1]:                     ^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/fp_quantizer.py", line 35, in is_compatible
+[rank1]:     sys_cuda_major, _ = installed_cuda_version()
+[rank1]:                         ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:   File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/deepspeed/ops/op_builder/builder.py", line 51, in installed_cuda_version
+[rank1]:     raise MissingCUDAException("CUDA_HOME does not exist, unable to compile CUDA op(s)")
+[rank1]: deepspeed.ops.op_builder.builder.MissingCUDAException: CUDA_HOME does not exist, unable to compile CUDA op(s)
+W1129 02:35:21.826000 2339187 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2339269 closing signal SIGTERM
+W1129 02:35:21.826000 2339187 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2339270 closing signal SIGTERM
+W1129 02:35:21.827000 2339187 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 2339271 closing signal SIGTERM
+E1129 02:35:22.357000 2339187 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 3 (pid: 2339272) of binary: /home/axs7716/anaconda3/envs/arsh_env/bin/python3.12
+Traceback (most recent call last):
+  File "/home/axs7716/anaconda3/envs/arsh_env/bin/torchrun", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/axs7716/anaconda3/envs/arsh_env/lib/python3.12/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+Finetuning_V4-deepseek.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-29_02:35:21
+  host      : h100-8s-01
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 2339272)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
